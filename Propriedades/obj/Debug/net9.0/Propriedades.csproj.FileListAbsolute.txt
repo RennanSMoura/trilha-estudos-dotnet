@@ -1,0 +1,14 @@
+C:\Users\User\Documents\trilha-estudos-dotnet\Propriedades\obj\Debug\net9.0\Propriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\trilha-estudos-dotnet\Propriedades\obj\Debug\net9.0\Propriedades.AssemblyInfoInputs.cache
+C:\Users\User\Documents\trilha-estudos-dotnet\Propriedades\obj\Debug\net9.0\Propriedades.AssemblyInfo.cs
+C:\Users\User\Documents\trilha-estudos-dotnet\Propriedades\obj\Debug\net9.0\Propriedades.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\trilha-estudos-dotnet\Propriedades\bin\Debug\net9.0\Propriedades.exe
+C:\Users\User\Documents\trilha-estudos-dotnet\Propriedades\bin\Debug\net9.0\Propriedades.deps.json
+C:\Users\User\Documents\trilha-estudos-dotnet\Propriedades\bin\Debug\net9.0\Propriedades.runtimeconfig.json
+C:\Users\User\Documents\trilha-estudos-dotnet\Propriedades\bin\Debug\net9.0\Propriedades.dll
+C:\Users\User\Documents\trilha-estudos-dotnet\Propriedades\bin\Debug\net9.0\Propriedades.pdb
+C:\Users\User\Documents\trilha-estudos-dotnet\Propriedades\obj\Debug\net9.0\Propriedades.dll
+C:\Users\User\Documents\trilha-estudos-dotnet\Propriedades\obj\Debug\net9.0\refint\Propriedades.dll
+C:\Users\User\Documents\trilha-estudos-dotnet\Propriedades\obj\Debug\net9.0\Propriedades.pdb
+C:\Users\User\Documents\trilha-estudos-dotnet\Propriedades\obj\Debug\net9.0\Propriedades.genruntimeconfig.cache
+C:\Users\User\Documents\trilha-estudos-dotnet\Propriedades\obj\Debug\net9.0\ref\Propriedades.dll
