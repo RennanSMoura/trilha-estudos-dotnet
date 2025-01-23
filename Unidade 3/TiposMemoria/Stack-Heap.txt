@@ -1,0 +1,22 @@
+void Metodo (){
+    int a = 1;
+    int b = 10;
+
+    Pessoa p1 = new Pessoa();
+}
+
+TIPOS DE MEMÓRIA
+
+A depender do tipo de memória, uma variável pode ser alocada em um local ou outro
+
+STACK - variáveis padroes como (int a = 1; int b = 10;) são encaminhadas para a memória do tipos stack (pilha)
+
+Já (Pessoa p1 = new Pessoa();) - no stack é armazenado o nome da variável e uma referencia para o heap (p1(ref))
+
+HEAP - Armazena o próprio objeto de uma maneira mais complexa (p1 objeto)
+
+Quando finalizado a implementacao do método é feita uma limpeza na memória STACK
+Já a limpeza na memória heap é feita pelo Garbage Collector (Coletor de lixo), na qual são apagados todos os objetos que nao possuem referencia
+
+Tipo de valor = é quando não é necessário buscar o valor de outro lugar, como por exemplo as variáveis a e b, seus valores sao armazenados apenas na memórias stack
+Tipo de referencia = é quando  é necessário buscar o valor de outro lugar, como por exemplo o objeto p1 sao valores sao armazenados na memória stack e na heap
